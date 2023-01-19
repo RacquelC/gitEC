@@ -1,2 +1,3 @@
 # gitEC
 test
+localt text
